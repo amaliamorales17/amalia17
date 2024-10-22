@@ -1,0 +1,65 @@
+{
+  
+  "product":[{
+    
+    "name": "Cream Cloud",
+    "description": "CREAM CLOUD Perfume Long Lasting for Women 100ml, good for gift",
+    "image": "cloud.jpg",
+    "price": "₱200"
+    },
+  {
+    "name": "Victoria Secret",
+    "description": "Vitoria's Secret perfumes are know for their sweet, floral, and sensual scents.",
+    "image": "victoria.jpg",
+    "price": "₱350"
+    },
+  {
+    "name": "Miss Dior EAU DE PARFUM",
+    "description": "A floral, gourmand explosion that settles like fruit on the tongue, wrapping itself in sensual flowers and leaving a dense, woody amber trail.",
+    "image": "dior.jpg",
+    "price": "₱2000"
+    },
+  {
+    "name": "COCO Mademoiselle",
+    "description": "A surprisingly fresh, feminine ambery fragrance with a distinct character.",
+    "image": "coco.jpg",
+    "price": "₱345"
+   },
+  {
+    "name": "V.V LOVE Shimmer Body Mist",
+    "description": "Shimmer Body Mist Perfume Fragrance Brume Parfumme For Women 250ML Spring Days Kiss The Air Sunshine Love Pink Summer",
+    "image": "shimmer.jpg",
+    "price": "₱180" 
+    },
+  {
+    "name": "SAUVAGE",
+    "description": "The stronh gust of citrus in Sauvage Eau de Toilette is powerfully anchored by the ambery nobleness of ambroxan, resinous elemo and woods.",
+    "image": "sauvage.jpg",
+    "price": "₱2,500"
+    },
+  {
+    "name": "POISON",
+    "description": "An unrivalled alchemy; spicy, fruity, woody fragrance of enigmatic profoundness that mesmerizez the senses forever.",
+    "image": "poison.jpg",
+    "price": "₱345"
+   },
+  {
+    "name": "Aficionado",
+    "description": "Aficionado a refreshing mist scent with a combination of sweet, fruity, and flowery scents! Its fragrance features freesia, floral, and cucumber notes.",
+    "image": "aficionado.jpg",
+    "price": "₱320" 
+   },
+  { 
+    "name": "BROS",
+    "description": "Bros Pour Homme 100ml Perfume givem you long lasting fragrance all day long NICE SMELL!!",
+    "image": "bros.jpg",
+    "price": "₱250"
+   },
+  {
+    "name": "EROS",
+    "description": "A fresh oriental woody fragrance with the touches of mint leaves, Italian lemon zest and green apple, with tonka bean and ambroxan at the heart of the fragrance and balanced with cedarwood and vanilla.",
+    "image": "eros.jpg",
+    "price": "₱1,500"
+    }
+  ]
+}
